@@ -1,0 +1,5 @@
+實驗環境:python 3.8.8
+使用到的套件: socket , os
+瀏覽器:chrome
+操作:執行python HTTP_server.py，程式碼內指定IP為127.0.0.1，port設定為8000，連上後對p1.html與p2.html做互動，若選擇之外的頁面，會顯示404 NOT　FOUND。
+
